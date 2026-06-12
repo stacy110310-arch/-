@@ -1,0 +1,6 @@
+{
+  "name": "Pet Mood Nurturing System",
+  "description": "An interactive pet mood nursery system that syncs virtual companion growth with daily emotional diaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
